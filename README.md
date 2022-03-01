@@ -1,4 +1,4 @@
-# hello-world
-Practicing Git and GitHub
+# WT ASSGNS
 
-## I am soul un-dying and eternal
+
+## I am Akshay TE Comp. Students
