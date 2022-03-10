@@ -1,4 +1,4 @@
-# WT ASSGNS
+# Git Practice
 
 
-## I am Akshay TE Comp. Students
+## Git Prep
